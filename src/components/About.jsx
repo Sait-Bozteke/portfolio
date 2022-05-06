@@ -14,14 +14,10 @@ const About = () => {
           </div>
           <div className='max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4'>
             <div className='sm:text-right text-4xl font-bold'>
-              <p>Hi. I'm Clint, nice to meet you. Please take a look around.</p>
+              <p>Hi. I'm Sait, nice to meet you. Please take a look around.</p>
             </div>
             <div>
-              <p>I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?</p>  
+              <p>I was born and raised in Turkey.  After completing my primary, secondary and high school education, I studied mathematics.  After working in a private school for a year, I learned English and started teaching at international schools abroad.  I came to the Netherlands after working as a teacher for 6 years.  As soon as I came to the Netherlands, I immediately learned Dutch.  I love learning languages.  Afterwards, I attended a few courses related to Programming.  I loved it because it gave the feeling of learning a new language after I joined.  After that day, I always learn different programming languages.  My areas of expertise include learning new skills and programming languages ​​quickly, problem solving, responsive design principles, website optimization, and code editing methods.  So far I have React.js, Redux, JavaScript, HTML, CSS, Bootstrap, SASS,  Python, Linux, SDLC, Agile methods, Jira, and Git/GitHub under my belt.  I'm still eagerly grabbing any other programming languages, frameworks or principles that I can integrate into the coding web in my head.</p>  
             </div>
           </div>
       </div>
