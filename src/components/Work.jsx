@@ -6,7 +6,7 @@ import Movie from "../assets/movie.gif"
 import Recipe from "../assets/recipe.gif"
 import Languages from "../assets/languages.gif"
 import Todo from "../assets/todo.gif"
-import Weather from "../assets/wheather.gif"
+import Weather from "../assets/weather.gif"
 
 const Work = () => {
   return (
