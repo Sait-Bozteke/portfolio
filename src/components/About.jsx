@@ -18,7 +18,6 @@ const About = () => {
             <div> <div className='sm:text-left text-4xl font-bold'>
               <p>Hi. I'm Sait</p>
             </div>
-            <br />
             <div><p> A curious full-blown developer with strong creative thinking skills,
             high energy, and integrity, skilled in developing complex solutions,
             interested in writing new code. Has the ability to create effective
