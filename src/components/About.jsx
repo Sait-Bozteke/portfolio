@@ -14,10 +14,10 @@ const About = () => {
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-5 px-4">
           <div>
-            <img src={Kendim} alt="" className="max-w-[400px]" />
+            <img src={Kendim} alt="" />
           </div>
           <div>
-            {" "}
+         
             <div className="sm:text-left text-4xl font-bold">
               <p>Hi. I'm Sait</p>
             </div>
