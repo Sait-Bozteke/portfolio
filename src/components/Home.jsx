@@ -14,13 +14,7 @@ const Home = () => {
           I'm a Full Stack Developer.
         </h2>
         <p className='text-[#8892b0] py-4 max-w-[700px]'>
-        A curious full-blown developer with strong creative thinking skills,
-            high energy, and integrity, skilled in developing complex solutions,
-            interested in writing new code. Has the ability to create effective
-            algorithms, interact positively, and communicate appropriately with
-            team members. Able to grasp new technologies and concepts quickly to
-            develop innovative and creative solutions to problems. Always eager
-            to learn about various technologies, tools, and libraries.
+       
         </p>
         <div>
           <button className='text-white group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600'>

@@ -8,7 +8,7 @@ const About = () => {
         <div className='max-w-[1000px] w-full grid grid-cols-2 gap-5'>
           <div className='sm:text-right pb-8 pl-4'>
             <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-center'>
-              About
+              About Me
             </p>
           </div>
          
@@ -19,7 +19,13 @@ const About = () => {
               <p>Hi. I'm Sait</p>
             </div>
             <br />
-            <div><p>I was born and raised in Turkey.  After completing high school education, I studied mathematics. I came to the Netherlands after working as a teacher for 6 years.  As soon as I came to the Netherlands, I immediately learned Dutch.  I love learning languages.  Afterwards, I attended a few courses related to Programming.  I loved it because it gave the feeling of learning a new language after I joined.  After that day, I always learn different programming languages.  My areas of expertise include learning new skills and programming languages ​​quickly, problem solving, responsive design principles, website optimization, and code editing methods.  So far I have React.js, Redux, JavaScript, HTML, CSS, Bootstrap, SASS,  Python, Linux, SDLC, Agile methods, Jira, and Git/GitHub under my belt.  I'm still eagerly grabbing any other programming languages, frameworks or principles that I can integrate into the coding web in my head.</p>  </div>
+            <div><p> A curious full-blown developer with strong creative thinking skills,
+            high energy, and integrity, skilled in developing complex solutions,
+            interested in writing new code. Has the ability to create effective
+            algorithms, interact positively, and communicate appropriately with
+            team members. Able to grasp new technologies and concepts quickly to
+            develop innovative and creative solutions to problems. Always eager
+            to learn about various technologies, tools, and libraries.</p>  </div>
               
             </div>
           </div>
