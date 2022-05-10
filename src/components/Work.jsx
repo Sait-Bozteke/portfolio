@@ -12,6 +12,7 @@ import Fireblog from "../assets/fireblog.gif"
 import Random from "../assets/random.gif"
 import Random2 from "../assets/random2.gif"
 import Task from "../assets/task.gif"
+import News from "../assets/news.gif"
 
 
 const Work = () => {
@@ -124,7 +125,7 @@ const Work = () => {
           </div>
             {/* Grid Item */}
           <div
-            style={{ backgroundImage: `url(${Random})` }}
+            style={{ backgroundImage: `url(${News})` }}
             className='shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div'
           >
             {/* Hover Effects */}
@@ -133,12 +134,12 @@ const Work = () => {
                 React JS Application
               </span>
               <div className='pt-8 text-center'>
-                <a href='https://random-one.vercel.app/'>
+                <a href='https://news-virid.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Demo
                   </button>
                 </a>
-                <a href='https://random-one.vercel.app/'>
+                <a href='https://news-virid.vercel.app/'>
                   <button className='text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg'>
                     Code
                   </button>
